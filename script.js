@@ -4,7 +4,7 @@ const chatBox = document.querySelector(".chatbox");
 const chatToggler = document.querySelector(".chatbot-toggler");
 const chatClose = document.querySelector(".close-btn");
 
-const API_KEY = "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";
+const API_KEY  = "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";
 //how to handle the chat?? 
 // 1. get the value of the input
 let userMessage;
